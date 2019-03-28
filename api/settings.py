@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     'api.apps.authentication',
+    'api.apps.profiles',
     'api.apps.core',
 ]
 
